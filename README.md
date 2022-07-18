@@ -3,7 +3,7 @@
 <!---->
 
 ### ⚒️Tech Stack
-- Python: NumPy, SymPy, SciPy, Pandas, Matplotlib 
+- Python: NumPy, SymPy, SciPy, Pandas, Seaborn, Matplotlib 
 - SQL: DML (Subquery, JOIN, GROUP BY), DDL
 - MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
 - Google Sheets
@@ -22,9 +22,10 @@ You can get acquainted about it in the corresponding repository.
 
 ### 👔 Work experience
 
-| Job Position   | Company           | Work Period        |
-|:---------------|:------------------|:-------------------|
-| Intern Analyst | EVA Technologies  | 11.2020 - 03.2021  |
+| Job Position        | Company          | Department \ Division       | Work Period       |
+|:--------------------|:-----------------|:----------------------------|:------------------|
+| Intern Analyst      | EVA Technologies | Analytics                   | 11.2020 - 03.2021 |
+| Intern Data Analyst | Nestlé           | Sales Dpt. \ Reporting Div. | 06.2022 - present |
 
 
 
@@ -44,9 +45,7 @@ You can get acquainted about it in the corresponding repository.
 
 #### Coursera
 - [Operational Analytics in MS Excel](https://www.coursera.org/account/accomplishments/verify/67J6QUC92ZF6)
-<!--
-- [Excel Power Tools for Data Analysis]()
--->
+- [Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/verify/YUWZ2UH79Y7H)
 
 #### SoloLearn
 - [SQL](https://www.sololearn.com/certificates/course/en/578901/1060/landscape/png)
