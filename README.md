@@ -5,18 +5,20 @@
 ### ⚒️Tech Stack
 - Python: NumPy, SymPy, SciPy, Pandas, Matplotlib 
 - SQL: DML (Subquery, JOIN, GROUP BY), DDL
-- MS Excel: VLOOKUP, PivotTables, Power Query, VBA (basic)
+- MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
 - Google Sheets
 - Power BI, Tableau (basic)
 - Git, Docker (basic)
 
 <!--### 👩🏻‍💻 Projects-->
 
-### 📁 [Junior Analyst Portfolio](https://github.com/Bersefona/technical_tasks)
+### 📁 [Junior Analyst Portfolio ru](https://github.com/lprosh/junior-analyst-portfolio)
   
-  - [MS Excel](https://github.com/Bersefona/technical_tasks/tree/main/excel)
-  - [SQL](https://github.com/Bersefona/technical_tasks/tree/main/sql)
-  - [Tableau](https://github.com/Bersefona/technical_tasks/tree/main/tableau)
+During the interviews, I solved problems using certain analytics tools. 
+You can get acquainted about it in the corresponding repository.
+  - [MS Excel](https://github.com/lprosh/junior-analyst-portfolio/tree/main/excel)
+  - [SQL](https://github.com/lprosh/junior-analyst-portfolio/tree/main/sql)
+  - [Tableau](https://github.com/lprosh/junior-analyst-portfolio/tree/main/tableau)
 
 ### 👔 Work experience
 
@@ -37,15 +39,22 @@
 ### 📜 Certifications
 
 #### Stepik
-- [Basic Python](https://stepik.org/cert/1498730)
+- [Basic Python](https://stepik.org/cert/1498730), [Python Programming](https://stepik.org/cert/1521295)
 - [Basic SQL](https://stepik.org/cert/1431666)
 
 #### Coursera
 - [Operational Analytics in MS Excel](https://www.coursera.org/account/accomplishments/verify/67J6QUC92ZF6)
+<!--
+- [Excel Power Tools for Data Analysis]()
+-->
 
 #### SoloLearn
 - [SQL](https://www.sololearn.com/certificates/course/en/578901/1060/landscape/png)
 - [Python for Beginners](https://www.sololearn.com/certificates/course/en/578901/1157/landscape/png)
+
+#### Other
+- [Basic Excel](https://static.teachbase.ru/system/coursestat/14193973/cert/948310df9396e60ba81b0cb5c15631f8.pdf)
+- [Advanced Excel](https://static.teachbase.ru/system/coursestat/14360444/cert/072e879acb37220dd79a1792010fa22e.pdf)
 
 ### 💬 Contacts
 - Telegram: [@proshlil](https://t.me/proshlil)
