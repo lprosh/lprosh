@@ -46,6 +46,8 @@ You can get acquainted about it in the corresponding repository.
 #### Coursera
 - [Operational Analytics in MS Excel](https://www.coursera.org/account/accomplishments/verify/67J6QUC92ZF6)
 - [Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/verify/YUWZ2UH79Y7H)
+- [IBM Data Science Specialization](https://www.coursera.org/professional-certificates/ibm-data-science)
+	- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/HJ7JWQCK9YN9)
 
 #### SoloLearn
 - [SQL](https://www.sololearn.com/certificates/course/en/578901/1060/landscape/png)
