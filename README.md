@@ -24,8 +24,8 @@ You can get acquainted about it in the corresponding repository.
 
 | Job Position         | Company          | Department \ Division       | Work Period       |
 |:---------------------|:-----------------|:----------------------------|:------------------|
-| Intern Analyst       | EVA Technologies | Analytics                   | 11.2020 - 03.2021 |
 | Trainee Data Analyst | Nestlé           | Sales Dpt. \ Reporting Div. | 06.2022 - present |
+| Intern Analyst       | EVA Technologies | Analytics                   | 11.2020 - 03.2021 |
 
 
 
