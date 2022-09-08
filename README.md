@@ -22,10 +22,10 @@ You can get acquainted about it in the corresponding repository.
 
 ### 👔 Work experience
 
-| Job Position        | Company          | Department \ Division       | Work Period       |
-|:--------------------|:-----------------|:----------------------------|:------------------|
-| Intern Analyst      | EVA Technologies | Analytics                   | 11.2020 - 03.2021 |
-| Intern Data Analyst | Nestlé           | Sales Dpt. \ Reporting Div. | 06.2022 - present |
+| Job Position         | Company          | Department \ Division       | Work Period       |
+|:---------------------|:-----------------|:----------------------------|:------------------|
+| Intern Analyst       | EVA Technologies | Analytics                   | 11.2020 - 03.2021 |
+| Trainee Data Analyst | Nestlé           | Sales Dpt. \ Reporting Div. | 06.2022 - present |
 
 
 
@@ -40,7 +40,7 @@ You can get acquainted about it in the corresponding repository.
 ### 📜 Certifications
 
 #### Stepik
-- [Basic Python](https://stepik.org/cert/1498730), [Python Programming](https://stepik.org/cert/1521295)
+- [Basic Python](https://stepik.org/cert/1498730), [Python Programming](https://stepik.org/cert/1521295), [Good, Good Python by Sergey Balakirev](https://stepik.org/cert/1655571)
 - [Basic SQL](https://stepik.org/cert/1431666)
 
 #### Coursera
@@ -48,6 +48,8 @@ You can get acquainted about it in the corresponding repository.
 - [Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/verify/YUWZ2UH79Y7H)
 - [IBM Data Science Specialization](https://www.coursera.org/professional-certificates/ibm-data-science)
 	- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/HJ7JWQCK9YN9)
+	- [Tools for Data Science]()
+
 
 #### SoloLearn
 - [SQL](https://www.sololearn.com/certificates/course/en/578901/1060/landscape/png)
